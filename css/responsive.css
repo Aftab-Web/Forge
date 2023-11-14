@@ -1,0 +1,233 @@
+@media only screen and (min-width:768px) {
+    .menu-item:hover .drop-menu {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item1:hover .drop-menu1 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item2:hover .drop-menu2 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item3:hover .drop-menu3 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item4:hover .drop-menu4 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item5:hover .drop-menu5 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item6:hover .drop-menu6 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+    .menu-item7:hover .drop-menu7 {
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+    }
+   
+
+}
+
+@media only screen and (max-width:996px) {
+
+    .drop-menu5{
+        width: 500px;
+        left: -200px;
+    }
+    .drop-menu5 .box{
+        width: 50%;
+        padding-bottom: 2em;
+    }
+    .selling{
+        padding: 0;
+    }
+    .selling h3{
+        padding-top: 50px;
+    }
+    header .none{
+        display: none;
+    }
+    footer .none{
+        display: none;
+    }
+    .bottom-footer .box {
+        width: 100%;
+        justify-content: center;
+    }
+    .pad{
+        padding-top: 50px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+    .top-footer h5{
+        text-align: center;
+    }
+    .none1{
+        display: block;
+    }
+    .toog{
+        /* opacity: 0;
+        visibility: hidden;
+        display: block; */
+        background: #fff;
+        width: 100%;
+        /* position: absolute; */
+        margin-bottom: 50px;
+        display: none;
+    }
+    header nav{
+        position: relative;
+        width: 100%;
+        background: #cd6289;
+    }
+    header nav::before{
+        display: none;
+    }
+    .nav-head{
+        background: #cd6289;
+    }
+    .super::after{
+        display: none;
+    }
+    .super::before{
+        display: none;
+    }
+    .navv{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 0;
+        position: relative;
+        opacity: 1;
+        visibility: visible;
+    }
+    .navv a{
+        color: #fff;
+    }
+    .navv a:hover{
+        color: #fff;
+    }
+    .none2{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+    .toog a{
+        color: #000;
+        width: 100%;
+    }
+    .toog li{
+        padding: 1rem 8px;
+    }
+    .drop-menu3{
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+        display: none;
+        position: relative;
+        left: 0;
+    }
+    .drop-menu4{
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+        display: none;
+        position: relative;
+        left: 0;
+    }
+    .drop-menu5{
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+        display: none;
+        position: relative;
+        left: 0;
+        width: 100%;
+    }
+    .drop-menu6{
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+        display: none;
+        position: relative;
+        left: 0;
+    }
+    .drop-menu7{
+        opacity: 1;
+        visibility: visible;
+        transform: scaleY(1);
+        display: none;
+        position: relative;
+        left: 0;
+    }
+    header .box{
+        align-items: flex-start;
+    }
+    .drop-menu4 .box{
+        padding: 0 1rem;
+    }
+    .drop-menu4 .box ul {
+        width: 100%;
+    }
+    .subscribe h1{
+        font-size: 2.5rem;
+    }
+    .luxury h2 {
+        font-size: 1rem;
+    }
+    .luxury a {
+        padding: 0 5px;
+    }
+    .textbox1{
+        margin: 0;
+    }
+    .textbox{
+        margin: 0;
+    }
+    .align{
+        display: flex;
+        justify-content: center;
+    }
+    .collection h2{
+        font-size: 1rem;
+    }
+    .upto{
+        padding: 0;
+    }
+    .collection a{
+        padding: 0 5px;
+    }
+    header input{
+        width: 120px;
+    }
+
+}
+
+@media only screen and (max-width:360px) {
+    .top .text1 h2{
+        margin: 0;
+    }
+    .top .text2 h2{
+        margin: 0;
+    }
+
+
+}
