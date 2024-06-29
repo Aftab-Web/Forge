@@ -589,7 +589,30 @@ header nav ul li{
 .banner .container a:hover{
     background-color: #cd6289;
 }
-
+.animate1{
+    visibility: visible;
+    animation-duration: 0.9s;
+    animation-delay: 0s;
+    animation-name: anime;
+}
+.animate2{
+    visibility: visible;
+    animation-duration: 1.5s;
+    animation-delay: .5s;
+    animation-name: anime;
+}
+.animate3{
+    visibility: visible;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-name: anime;
+}
+.animate4{
+    visibility: visible;
+    animation-duration: 2.5s;
+    animation-delay: 1.5s;
+    animation-name: anime;
+}
 
 
 /* banner section */
